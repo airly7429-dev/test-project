@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ideashell": {
+      "type": "http",
+      "url": "https://api.ideashell.com/ideashell/mcp"
+    }
+  }
+}
